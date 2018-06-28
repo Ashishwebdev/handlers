@@ -1,0 +1,2 @@
+# handlers
+Rails template handler
